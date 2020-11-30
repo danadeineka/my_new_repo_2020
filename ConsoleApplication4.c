@@ -19,4 +19,5 @@ int main(void)
 	while (c != '\n');
 	mas[k] = '\0';
 	printf("%s\n", mas);
+	printf("hello"\s);
 }
